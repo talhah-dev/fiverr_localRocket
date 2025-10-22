@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+  <!-- Home -->
+  <url>
+    <loc>https://www.yoursite.com/</loc>
+    <lastmod>2025-10-22</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+
+    <!-- Key case-study images shown on the home page -->
+    <image:image>
+      <image:loc>https://www.yoursite.com/docs/assets/images/img1.jpg</image:loc>
+      <image:title>Wedding planner case — screenshot 1</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://www.yoursite.com/docs/assets/images/img2.jpg</image:loc>
+      <image:title>Wedding planner case — screenshot 2</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://www.yoursite.com/docs/assets/images/img3.jpg</image:loc>
+      <image:title>Wedding planner case — screenshot 3</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://www.yoursite.com/docs/assets/images/img4.jpg</image:loc>
+      <image:title>Wedding planner case — screenshot 4</image:title>
+    </image:image>
+
+    <image:image>
+      <image:loc>https://www.yoursite.com/docs/assets/images/img5.jpg</image:loc>
+      <image:title>Veg restaurant case — screenshot 1</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://www.yoursite.com/docs/assets/images/img6.jpg</image:loc>
+      <image:title>Veg restaurant case — screenshot 2</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://www.yoursite.com/docs/assets/images/img7.jpg</image:loc>
+      <image:title>Veg restaurant case — screenshot 3</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://www.yoursite.com/docs/assets/images/img8.jpg</image:loc>
+      <image:title>Veg restaurant case — screenshot 4</image:title>
+    </image:image>
+  </url>
+
+  <!-- Legal -->
+  <url>
+    <loc>https://www.yoursite.com/privacy.html</loc>
+    <lastmod>2025-10-22</lastmod>
+    <changefreq>yearly</changefreq>
+    <priority>0.3</priority>
+  </url>
+  <url>
+    <loc>https://www.yoursite.com/terms.html</loc>
+    <lastmod>2025-10-22</lastmod>
+    <changefreq>yearly</changefreq>
+    <priority>0.3</priority>
+  </url>
+</urlset>
