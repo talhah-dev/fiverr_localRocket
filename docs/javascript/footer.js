@@ -25,7 +25,7 @@ footer.innerHTML = `
                 </nav>
 
                 <!-- Footer CTA -->
-                <a href="#"
+                <a href="https://calendly.com/logesh-logeshgmbbost/30min"
                     class="inline-flex items-center justify-center px-5 py-2 rounded-md bg-black text-white text-sm font-medium
                 hover:opacity-90 focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-black/50 transition"
                     data-event="footer_cta_click">

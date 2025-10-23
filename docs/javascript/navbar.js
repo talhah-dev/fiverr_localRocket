@@ -16,7 +16,7 @@ dynamic_navbar.innerHTML = `
     </div>
 
     <!-- CTA -->
-    <a href="/book.html"
+    <a href="https://calendly.com/logesh-logeshgmbbost/30min"
        class="ml-4 inline-flex items-center text-nowrap tracking-wider px-5 py-2 rounded-md bg-teal-500 text-white font-medium
               hover:bg-teal-600 focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-teal-500/50">
       Book a Call
